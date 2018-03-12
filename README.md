@@ -8,6 +8,6 @@ I have tested with the following for chrome:
 https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija?hl=en
 
 The configuration is as follows:
-![alt text](https://raw.githubusercontent.com/OliverDolan/vstso/blob/master/backlog.png)
+![alt text](https://raw.githubusercontent.com/OliverDolan/vstso/master/backlog.png)
 
 
