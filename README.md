@@ -5,6 +5,7 @@ Adds the functionality to view feature backlog item totals into visual studio te
 The tool relies upon a browser add on to run additional javascript in your browser, when you are browsing VSTS
 
 I have tested with the following for chrome:
+
 https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija?hl=en
 
 The configuration is as follows:
