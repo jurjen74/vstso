@@ -12,7 +12,7 @@ The configuration is as follows:
 
 ![Plugin Configuration](https://raw.githubusercontent.com/OliverDolan/vstso/master/plugin%20config.png)
 
-You take the script from here and paste it into the box and configure it to run for your visual studio url like I have done for WorldFavor.visualstudio.com
+You take the main.js script from here and paste it into the box and configure it to run for your visual studio url like I have done for WorldFavor.visualstudio.com
 
 It will give the following output
 
