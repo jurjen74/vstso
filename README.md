@@ -9,6 +9,7 @@ I have tested with the following for chrome:
 https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija?hl=en
 
 The configuration is as follows:
+
 ![Plugin Configuration](https://raw.githubusercontent.com/OliverDolan/vstso/master/plugin%20config.png)
 
 You take the script from here and paste it into the box and configure it to run for your visual studio url like I have done for WorldFavor.visualstudio.com
